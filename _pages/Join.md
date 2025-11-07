@@ -27,6 +27,7 @@ We are a friendly and inclusive group, and we welcome all backgrounds.
 <!-- Should add a group photo here once we have one! -->
 
 Undergraduate, Masters' and PhD students that Seán has supervised have won research awards (Catlow prize for best PhD in Chemistry, Sharp and Nyholm prizes for best MSc/MSci in Theoretical and Inorganic Chemistry respectively, ...), published papers in leading journals  (_Energy & Environmental Science_, _npj Computational Materials_, _Joule_, _Matter_...) and achieved top grades for their projects.
+Seán was award a UCL MAPS Faculty Education Award and nominated for the Provost's Award for Excellence in Academic Supervision and Tutoring.
 
 <!-- _Nature Reviews Materials_ -->
 
@@ -34,6 +35,14 @@ Undergraduate, Masters' and PhD students that Seán has supervised have won rese
 We are extremely supportive of students and postdocs applying for external fellowships to fund their research, and we have a strong track record of success in this area. There are a number of opportunities for fellowships at Cambridge.
 If you are interested in applying for a fellowship, please reach out to Seán to discuss potential projects and application strategies.
 
+## Alumni
+Some previously mentored students include:
+- [Irea Mosquera-Lois](https://scholar.google.com/citations?user=oIMzt0cAAAAJ&hl=en), President's PhD Scholar at Imperial College London (Psi-K Collaborating Early-Career Investigators Finalists)
+- [Xinwei Wang](https://scholar.google.com/citations?user=Ul36LhUAAAAJ&hl=zh-CN), Eric and Wendy Schmidt AI in Science Postdoctoral Fellow at Imperial College London
+- [Adair Nicolson](https://scholar.google.com/citations?user=6W-kJRgAAAAJ&hl=en), PhD Student at University College London (Catlow prize for Best Computational Chemistry PhD Student at UCL)
+- [Bodoo Batnaran](https://scholar.google.com/citations?user=VUzZzVwAAAAJ&hl=en), PhD Student at the University of Oxford (Nyholm Prize for best MSci graduate in Inorganic Chemistry at UCL)
+- [Helen Spong](https://www.linkedin.com/in/helen-spong/), Data Engineer at KPMG (Sharp Prize for best MSci graduate in Theoretical/Computational Chemistry at UCL)
+- [Cibrán López Álvarez](https://scholar.google.com/citations?user=TLvRIMQAAAAJ&hl=en), Phd Student at UPC Barcelona
 
 
 <!-- From Uthsav's website; could be useful if we do get inundated: -->
