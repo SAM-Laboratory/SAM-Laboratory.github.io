@@ -42,7 +42,7 @@ Some previously mentored students include:
 - [Adair Nicolson](https://scholar.google.com/citations?user=6W-kJRgAAAAJ&hl=en), PhD Student at University College London (Catlow prize for Best Computational Chemistry PhD Student at UCL)
 - [Bodoo Batnaran](https://scholar.google.com/citations?user=VUzZzVwAAAAJ&hl=en), PhD Student at the University of Oxford (Nyholm Prize for best MSci graduate in Inorganic Chemistry at UCL)
 - [Helen Spong](https://www.linkedin.com/in/helen-spong/), Data Engineer at KPMG (Sharp Prize for best MSci graduate in Theoretical/Computational Chemistry at UCL)
-- [Cibrán López Álvarez](https://scholar.google.com/citations?user=TLvRIMQAAAAJ&hl=en), Phd Student at UPC Barcelona
+- [Cibrán López Álvarez](https://scholar.google.com/citations?user=TLvRIMQAAAAJ&hl=en), PhD Student at UPC Barcelona
 
 
 <!-- From Uthsav's website; could be useful if we do get inundated: -->
