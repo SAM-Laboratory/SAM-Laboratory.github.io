@@ -56,7 +56,7 @@ These can be highly impactful team projects, with a lot of fun along the way.
 <div style="float: right; width: 200px; margin-left: 15px;">
   <img src="/images/Te_i_0.jpg" alt="Te_i_0 in CdTe" style="width: 100%; border-radius: 8px;">
 </div>  
-Defects are imperfections of 'mistakes' in the arrangement of atoms in materials.
+Defects are imperfections or 'mistakes' in the arrangement of atoms in materials.
 Like mutations in DNA, they are rare events but with major macroscopic effects, in fact dictating the performance of most functional materials; including semiconductors (defects are what allow them to 'conduct'), solar cells, transparent conducting materials, thermoelectrics, photo/electro-catalysts, quantum sensors, LEDs...
 <div style="float: right; width: 200px; margin-left: 15px; margin-bottom: 40px;">
   <img src="/images/Solar Cell Defect Recombination.png" alt="Solar Cell Defect Recombination" style="width: 100%; border-radius: 8px;">
