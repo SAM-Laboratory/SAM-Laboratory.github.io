@@ -5,7 +5,7 @@ title: "Join Us"
 ---
 
 <div style="float: right; width: 180px; margin-left: 15px;">
-  <img src="/images/Sean_Headshot_Square.jpg"  alt="Seán" style="width: 100%; border-radius: 8px;">
+  <img src="/images/Sean_Cambridge_Gardens_Photo.jpg"  alt="Seán" style="width: 100%; border-radius: 8px;">
 </div>
 We are actively recruiting motivated students and post-doctoral researchers! <br>
 You can reach out to Seán via email (sk2045[at]cam.ac.uk), and it is helpful to include a brief description of your background, a CV and any relevant experience, to help determine potential research projects.<br><br>
