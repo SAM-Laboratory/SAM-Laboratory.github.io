@@ -8,7 +8,7 @@ title: "Research Interest Areas"
 <!-- Overview image, not helpful? -->
 
 At the SAM lab, we develop and employ the most powerful computational techniques available to tackle crucial materials challenges for a better world.
-Currently, this includes quantum-mechanical (e.g. DFT, GW) and machine-learning approaches, which we use to investigate, design and develop advanced materials across a range of technologies.
+Currently, this includes quantum-mechanical (e.g. DFT, GW) and machine-learning approaches (such as machine-learned interatomic potentials (MLIPs)), which we use to investigate, design and develop advanced materials across a range of technologies.
 
 We have a particularly strong interest in materials for energy conversion (such as solar cells, photocatalysts and thermoelectrics) and energy storage (e.g. batteries).
 Some core focus areas are given below, but we are flexible to the skillsets and interests of those who join our team!

@@ -22,7 +22,7 @@ html:not([data-theme="dark"]) body {
 ## What We Do
 We are a research team in the Department of Chemistry at the University of Cambridge, using <u>state-of-the-art computational methods to design and develop next-generation materials</u>; primarily targeting energy applications. 
 
-We work at the intersection of materials science, chemistry, physics and artificial intelligence (AI); developing and deploying techniques from quantum chemistry (e.g. DFT), solid-state physics and machine learning (ML) to understand the atomic-level properties of materials.
+We work at the intersection of materials science, chemistry, physics and artificial intelligence (AI); developing and deploying techniques from quantum chemistry (e.g. DFT), solid-state physics and machine learning (ML – such as machine-learned interatomic potentials (MLIPs)) to understand the atomic-level properties of materials.
 Using our insights from these calculations, run on massive high-performance computers, we predict, design and optimise the performance of materials in real-world technologies. 
 
 <div style="text-align: center; margin-bottom: 10px;">
