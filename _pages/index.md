@@ -44,6 +44,9 @@ Check out our current [Research](Research) interest areas, and the [Join](Join) 
 </a> -->
 
 ## Recent Highlights
+<!-- workshop-announcement: start; remove after 16 Dec 2026 -->
+We're organising 'Computational Methods for Defects in Solids', a three-day workshop in Cambridge on 6–8 January 2027, with 12 invited speakers and a format built around discussion. Contributed-talk abstracts are due 23 November; registration and poster abstracts close 16 December. Details and registration: <https://aichemy.ac.uk/event/computational-methods-for-defects-in-solids-workshop>
+<!-- workshop-announcement: end -->
 Travelling to conferences to present and discuss ideas with other researchers, with time to be a tourist and explore, is one of the best parts of the job. From Psi-K 2025:
 
 <div style="display: flex; justify-content: center; align-items: flex-start; gap: 20px; margin-bottom: 20px;">
